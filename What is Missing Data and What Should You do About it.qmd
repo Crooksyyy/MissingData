@@ -3,7 +3,7 @@ title: "What is Missing Data and What Should You do About it?"
 author:
   - Gavin Crooks 
   - Edited by Mohid Sharif 
-thanks: "Paper available at this repo: https://github.com/Crooksyyy/MissingData"
+thanks: "Paper available at this repo: https://github.com/Crooksyyy/MissingData "
 abstract: "This paper explores the challenges of missing data in research, emphasizing its inevitability and multifaceted origins. I advocate for a nuanced understanding of Missing Completely at Random (MCAR), Missing at Random (MAR), and Missing Not at Random (MNAR) patterns. Simulation is highlighted as a crucial tool for experimenting with missing data scenarios and evaluating imputation strategies. Complete Case Analysis (CCA) is discussed as a straightforward but limited approach, contrasted with more advanced techniques like Multiple Imputation and Data Augmentation. The importance of simulation studies in guiding decision-making is underscored, emphasizing the need for tailored strategies aligned with missing data characteristics."
 date: today
 date-format: long
