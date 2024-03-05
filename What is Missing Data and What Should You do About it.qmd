@@ -2,7 +2,6 @@
 title: "What is Missing Data and What Should You do About it?"
 author:
   - Gavin Crooks 
-  - Edited by Mohid Sharif 
 thanks: "Paper available at this repo: https://github.com/Crooksyyy/MissingData "
 abstract: "This paper explores the challenges of missing data in research, emphasizing its inevitability and multifaceted origins. I advocate for a nuanced understanding of Missing Completely at Random (MCAR), Missing at Random (MAR), and Missing Not at Random (MNAR) patterns. Simulation is highlighted as a crucial tool for experimenting with missing data scenarios and evaluating imputation strategies. Complete Case Analysis (CCA) is discussed as a straightforward but limited approach, contrasted with more advanced techniques like Multiple Imputation and Data Augmentation. The importance of simulation studies in guiding decision-making is underscored, emphasizing the need for tailored strategies aligned with missing data characteristics."
 date: today
@@ -25,7 +24,7 @@ In contrast to Complete Case Analysis (CCA), various other techniques offer more
 
 In summary, effectively dealing with missing data requires a thorough understanding of its nature and employing suitable handling techniques. @rosexamples framework categorizes missing data into MCAR, MAR, and MNAR, guiding the choice of appropriate strategies. Simulations, as emphasized in the literature, prove essential for assessing the implications of these strategies. Complete Case Analysis (CCA) offers a straightforward but limited approach, whereas advanced techniques like Multiple Imputation, Model-Based Imputation, and Data Augmentation provide more sophisticated options. The choice of method should align with the missing data characteristics, and researchers are encouraged to use simulations for comprehensive evaluations and informed decision-making in handling missing data challenges.
 
-It is important to note this paper draws heavily from @tellingstorieswithdata as well as @rosexamples 
+It is important to note this paper draws heavily from @tellingstorieswithdata as well as @rosexamples. I Would also like to thank Denise Chang for editing this paper. Please note the use of @chatgpt in the LLMUsage file also found in the the repo. 
 
 \newpage
 
